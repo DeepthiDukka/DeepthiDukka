@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm Deepthi Dukka 👋 👩🏽‍🎓💻
 
-<!--
-**DeepthiDukka/DeepthiDukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Web Developer, who is passionate about coding and exploring new features in web applications. Some technologies I enjoy working with include React, Javascript, MySQL, Node.js, HTML, CSS. I have recently graduated from https://www.hackyourfuture.dk/. Previously worked as Digital Marketing Specialist with +5 years of experience on social media campaigns.
 
-Here are some ideas to get you started:
+## My values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆Expression as authentic self
+
+🌱Beginner's mindset and curiosity
+
+🙌🏽Shared understanding and consensus
+
+## Find me around the web 🌎: 
+
+<a href="https://www.linkedin.com/in/deepthidukka/">LinkedIn</a> 💼
